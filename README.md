@@ -1,5 +1,5 @@
 # platypus
-my bot
+
 TERMS OF SERVICE AGREEMENT
 
 This Terms of Service Agreement (the "Agreement") is entered into between [BKC Dan] ("Bot Owner") and the user ("User") of the [Platypus] Discord bot.
